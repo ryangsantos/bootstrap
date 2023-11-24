@@ -1,6 +1,14 @@
 @charset "UTF-8";
 
 .logo{
-    width: 90px;
+    width: 200px;
     height: 90px;
 }
+
+#roda{
+    background-color: rgb(8, 89, 5);
+}
+/* #slide{
+    height: 10px;
+
+} */
